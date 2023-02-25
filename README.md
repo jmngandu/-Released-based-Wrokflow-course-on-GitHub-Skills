@@ -138,7 +138,7 @@ Merge this feature pull request so that you can open the release pull request as
 </details>
 
 <!--Step 3-->
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 _Nice work adding a new feature :smile:_
@@ -171,7 +171,7 @@ Let's make a new pull request comparing the `release-v1.0` branch to the `main` 
 </details>
 
 <!--Step 4-->
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Generate release notes and merge</h2></summary>
 
 _Thanks for opening that pull request :dancer:_
