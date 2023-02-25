@@ -7,7 +7,7 @@
 
 # Create a release based workflow
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to download and use.
@@ -87,7 +87,7 @@ To set the stage for later, let's also add a bug that we'll fix as part of the r
 </details>
 
 <!--Step 2-->
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 _Great job creating a beta release :heart:_
