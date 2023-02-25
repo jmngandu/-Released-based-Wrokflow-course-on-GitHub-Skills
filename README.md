@@ -87,7 +87,7 @@ To set the stage for later, let's also add a bug that we'll fix as part of the r
 </details>
 
 <!--Step 2-->
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 _Great job creating a beta release :heart:_
@@ -138,7 +138,7 @@ Merge this feature pull request so that you can open the release pull request as
 </details>
 
 <!--Step 3-->
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 _Nice work adding a new feature :smile:_
