@@ -65,7 +65,7 @@ jobs:
       # and open <details id=5>
       # and set STEP to '5'
       - name: Update to step 5
-        uses: skills/action-update-step@v1
+        uses: skills/action-update-step@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 4
